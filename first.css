@@ -1,0 +1,25 @@
+#count{
+    text-align: center;
+    font-size: 6em;
+    font-family: monospace;
+}
+.btnbox{
+    text-align: center;
+}
+.btn{
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    padding: 1.2%;
+    border: 2px solid rgb(12, 250, 230);
+    border-radius: 5px;
+    transition: background-color .30s;
+    cursor: pointer;
+    margin: 1%;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
